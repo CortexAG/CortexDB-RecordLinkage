@@ -1,7 +1,7 @@
 CortexDB Record Linkage
 =======================
 
-Die englische Version dieses Text ist hier zu finden: [README.md](README.md)
+Die englische Version dieses Text ist hier zu finden: [README.md](./README.md)
 
 Aus Sicht vieler Fachbereiche und durch Anpassungen rechtlicher Gegebenheiten (GDPR/DSGVO) ist das Finden und Zusammenführen eines eindeutigen Datensatzes je Kunde, eines Vertrages oder Produktes notwendig. Erst das Auffinden des eindeutigen Datensatzes zu einem Kunden oder einem Produkt ermöglicht es, alle Zusammenhänge zu diesem Ausgangsdatensatz aufzufinden, zu sichten und zu bearbeiten. Diesen "golden record" gilt es daher zu erreichen, wenn mehrere Datenbanksysteme betrieben werden.
 

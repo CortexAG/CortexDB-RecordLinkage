@@ -1,7 +1,7 @@
 CortexDB Record Linkage
 =======================
 
-find German version of this readme here: [README-DE.md](README-DE.md)
+find German version of this readme here: [README-DE.md](./README-DE.md)
 
 From the point of view of many departments and by adapting legal conditions (GDPR/DSGVO), it is necessary to find and merge a unique data record for each customer, contract or product. Only the finding of the unique data record for a customer or a product makes it possible to find, view and edit all correlations to this initial data record. This "golden record" must therefore be achieved when several database systems are operated.
 
